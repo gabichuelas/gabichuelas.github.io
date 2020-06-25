@@ -1,7 +1,7 @@
 # Setup
-title: Bleep Bloop
-tagline: Gaby Mendez
-url: https://getpoole.com
+title: Gaby Méndez
+tagline: Design & Development
+url: https://gabichuelas.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -31,11 +31,20 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
+# pages in nav bar
+include: ['_pages']
+
+# pages across header
+# seems to need `jekyll build` to catch updates on localhost
+pages_list:
+  about: '/about'
+  archive: '/archive'
+
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Gaby Mendez
+  url: http://github.com/gabichuelas
+  email: gmendez90@gmail.com
 
 # Custom vars
 version: 3.0.0
