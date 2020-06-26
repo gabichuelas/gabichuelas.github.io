@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Choosing Back-End over Front-End
-published: false
+date: 2020-04-08
+tags: turing backend frontend programming bootcamp
 ---
 
 A list of reasons I wrote myself to decide which of [Turing's](https://turing.io/) engineering programs to dive into. Might help someone else with that decision, who knows?
+
+_March 2020_
 
 * If I’m going to pay a bunch of money for an education at this point, I want to pick the choice I have the least experience in, especially since some Turing alumni say that you cross pollinate a fair bit anyway, and a lot of students from one program end up working in the other field.
 

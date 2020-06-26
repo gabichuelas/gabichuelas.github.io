@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reflections
+tags: misc
 ---
 
 **The most important thing I've learned in the past two years** is that maybe the reason I'm not doing the things I berate myself for not doing, is that I don't actually want to do—or be doing—them, but something has made me feel like I'm supposed to.

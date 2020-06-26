@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Healthcare + Tech on Freakonomics
-published: false
+tags: podcasts turing health+tech 
 ---
 
 Earlier today I was driving back home from a week spent near the beach with my mother. We both had a bit of time off from school. Hers being her job, mine being Turing. Solo driving is my preferred time to indulge in podcasts or extensive daydreaming and brainstorming.

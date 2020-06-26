@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Turing?
-published: false
+tags: turing bootcamp programming 
 ---
 
 At the beginning of May, I started a bit of a journey at the Turing School of Software & Design. Before applying, I wrote this little cover letter of sorts for myself while ruminating over that decision.
