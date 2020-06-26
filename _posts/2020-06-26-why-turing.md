@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Turing?
+date: 2020-06-14
 tags: turing bootcamp programming
 ---
 
