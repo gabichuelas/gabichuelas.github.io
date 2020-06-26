@@ -20,15 +20,23 @@
 .page-title,
 .post-title {
   margin-top: 0;
+}
+
+.page-title {
   margin-bottom: 20px;
 }
+
+.post-title {
+  margin-bottom: 10px;
+}
+
 .post-title a {
   color: inherit;
   text-decoration: none;
 
   &:hover,
   &:focus {
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 }
 
