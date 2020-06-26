@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Turing?
-tags: turing bootcamp programming 
+tags: turing bootcamp programming
 ---
 
 At the beginning of May, I started a bit of a journey at the Turing School of Software & Design. Before applying, I wrote this little cover letter of sorts for myself while ruminating over that decision.
@@ -11,4 +11,4 @@ At the beginning of May, I started a bit of a journey at the Turing School of So
 <br><br>The next natural step, for me, is a transition to front or back end development. Coding feels like a creative outlet that might be better aligned with my personality and future career goals. It could also provide me with the flexibility and freedom that I’ve come to love from working remotely as a designer, as well as access to a wider and increasingly relevant job market. I’ve dabbled in HTML, CSS, and most recently Python several times in the past. Lack of an immediate application at work or school led to a lack of practice, but I never forgot that particular feeling of mental engagement and satisfaction.
 <br><br>I also recently discovered an interest in the world of data science as a portal into industries or research projects that I might otherwise not have access to without formal training. I’ve learned that most data scientists end up as such by responding to the increasing need to handle massive amounts of data to further their research or help inform business decisions. I hope that I’ll be able to come at the problem from the other end. In other words, I aspire to use my future skills as a software engineer to someday work on what I think is one of the most crucial issues of our time: how to reconcile the benefits and dangers of big data as it relates to the future of healthcare, the protection of privacy, and the inherent role of behavioral psychology in all of it.
 
-I ended up choosing the back end program over front end. [Here's why.]()
+I ended up choosing the back end program over front end. [Here's why.]({% link _posts/2020-06-26-be-over-fe.md %})
