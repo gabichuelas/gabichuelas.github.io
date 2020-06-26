@@ -35,7 +35,6 @@ sass:
 include: ['_pages']
 
 # pages across header
-# seems to need `jekyll build` to catch updates on localhost
 pages_list:
   about: '/about'
   archive: '/archive'

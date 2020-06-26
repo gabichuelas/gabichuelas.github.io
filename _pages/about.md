@@ -10,6 +10,6 @@ I'm currently learning my way through the **back end engineering** program at Tu
 
 I also have ~10 years of experience working in the cycling industry in the form of bicycle mechanics & retail sales.
 
-When I'm not glued to my computer, I'm probably out riding my bike, planning a backpacking trip, or paddling the rivers and springs of north central Florida with my best pup, Noodle.
+When I'm not glued to my computer following every interesting rabbit-hole, I'm probably out riding my bike, planning a backpacking trip, or paddling the rivers and springs of north central Florida with my best pup, Noodle. 
 
 This site is pretty new. Bear with me.
