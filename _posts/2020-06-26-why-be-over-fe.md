@@ -1,0 +1,23 @@
+---
+layout: post
+title: Choosing Back-End over Front-End
+published: false
+---
+
+A list of reasons I wrote myself to decide which of [Turing's](https://turing.io/) engineering programs to dive into. Might help someone else with that decision, who knows?
+
+* If I’m going to pay a bunch of money for an education at this point, I want to pick the choice I have the least experience in, especially since some Turing alumni say that you cross pollinate a fair bit anyway, and a lot of students from one program end up working in the other field.
+
+* I hear graduates of the BE program are more likely to work in FE than vice-versa.
+
+* I’m newly interested in data science, machine learning, and deep learning especially as it could relate to fields like healthcare, psychology, user privacy, climate change and working with big data as a whole. I’ll need a background in BE and languages like Python if I ever want to explore this route.  
+
+* However, I’m also interested in Javascript as the safest, long term language to invest in (in terms of job prospects and demand), so I hope to get some serious exposure to that through the cross-pollination projects.
+
+* I hypothesize that if I choose the FE program, I’ll get hung up on the design side (UI/UX) of projects, which will take away from what I’m supposed to be learning, and require an additional amount bandwidth I won't be willing to expend while focusing at Turing.
+
+* I always talk about wanting to do something entirely different from what I’ve been doing; I value having entirely unrelated interests and skills, because I think it makes me a more well-rounded and unique job candidate in addition to bringing me personal satisfaction. If I choose FE, I’ll end up on the same side of the coin, and maybe still be left wanting to do something different or less related.
+
+* FE would look better on a resume next to a BFA in Graphic Design and previous experience as a Product Designer, but...
+
+* At the moment, I am more interested in seeing if I can learn (and be good at) skill sets that could take me in the direction of data manipulation, ML, etc. than getting better at product design. I like design, I do want to continue growing in this area, but I'd like to also have an alternate career choice that is still creative, satisfying, stimulating, and prioritizes work-life balance + time flexibility.
