@@ -36,8 +36,9 @@ include: ['_pages']
 
 # pages across header
 pages_list:
-  blog: '/blog'
-  archive: '/archive'
+  who: '/about'
+  writes: '/blog'
+  these: '/archive'
 
 
 # Specify the author for blog posts
