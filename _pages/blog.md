@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Blog
 permalink: "/blog"
 ---
 
@@ -15,7 +15,7 @@ permalink: "/blog"
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.excerpt }}
+    {{ post.content }}
   </article>
   {% endfor %}
 </div>
