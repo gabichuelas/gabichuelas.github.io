@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# About
+# Hey there!
 
 **I'm Gaby—**a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. Most recently, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
 
@@ -15,6 +15,6 @@ When I'm not glued to my computer following every interesting rabbit-hole, I'm p
 
 _This site is pretty new. Bear with me._
 
-# Contact 
+# Contact
 
 Say hi at **gmendez90@gmail.com**. You can also find me on [Github](http://github.com/gabichuelas) and [LinkedIn](https://www.linkedin.com/in/gabymendez/). Cheers :)
