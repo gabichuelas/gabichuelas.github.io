@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Hey there!
+<br>
 
 **I'm Gaby—**a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. Most recently, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
 

@@ -36,7 +36,6 @@ include: ['_pages']
 
 # pages across header
 pages_list:
-  who: '/about'
   writes: '/blog'
   these: '/archive'
 
