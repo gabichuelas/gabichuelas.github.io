@@ -2,7 +2,7 @@
 title: Gaby Méndez
 tagline: Design & Development
 url: https://gabichuelas.com
-paginate: 1
+paginate: 5
 baseurl: ""
 permalink: pretty
 
@@ -47,3 +47,6 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+# Custom additions
+excerpt_separator: <!--more-->
