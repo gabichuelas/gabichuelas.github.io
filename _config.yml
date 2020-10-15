@@ -1,8 +1,8 @@
 # Setup
 title: Gaby Méndez
-tagline: Design & Development
+tagline: Designer Turned Developer
 url: https://gabichuelas.com
-paginate: 5
+# paginate: 1
 baseurl: ""
 permalink: pretty
 
