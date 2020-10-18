@@ -17,4 +17,4 @@ _This site is pretty new. Bear with me._
 
 # Contact
 
-Say hi at **gmendez90@gmail.com**. You can also find me on [Github](http://github.com/gabichuelas) and [LinkedIn](https://www.linkedin.com/in/gabymendez/). Cheers :)
+Say hi at **gmendez90@gmail.com**! You can also find me on [Github](http://github.com/gabichuelas) and [LinkedIn](https://www.linkedin.com/in/gabymendez/), or download my [resume](https://bit.ly/3j4iAUR ). Cheers :)
