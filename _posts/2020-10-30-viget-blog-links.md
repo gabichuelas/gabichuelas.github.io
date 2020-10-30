@@ -20,3 +20,11 @@ I've been spending an inordinate amount of time on the [Viget blog](https://www.
 - [What UX Designers Can Learn From Ikea](https://www.viget.com/articles/what-ux-designers-can-learn-from-ikea/)
 
   This article uses an activity/artifact that is likely familiar to a wide audience of non-designers to detail how much thought and intention could and does go into anything meant for humans to use. They say the best design is _invisible_, and the same goes for smooth, functional, and satisfying user experiences.
+
+- [Design Ethics and the Limits of the Ethical Designer](https://www.viget.com/articles/design-ethics-and-the-limits-of-the-ethical-designer/)
+
+  An honest, direct, big-picture guide to thinking about the "ethical design" problem that has been in the forefront of the design community's concerns for the last few years.
+
+  > Part of this higher calling means growing out of an identity based on the reductive philosophy of [“Don’t Make Me Think”](https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think) to a more nuanced understanding of our responsibilities as behavior designers and psychological manipulators. **Confining ourselves to a lens of mere usability is a cowardly dodge that has allowed us to ignore our responsibility for too long.** We need to make ethics unignorable in the way we teach, talk about, and practice design.
+
+  That paragraph in particular makes me think of this excellent [talk](https://vimeo.com/3693227360) given by [Jenka Gurfinkel](https://www.socialcreature.com/) at the [Midwest UX Conference](https://2019.midwestuxconference.com/) in 2019. The content of that presentation targets a slightly different, but in my opinion parallel, concern than in the quote above.
