@@ -51,3 +51,7 @@ version: 3.0.0
 
 # Custom additions
 excerpt_separator: <!--more-->
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
