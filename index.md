@@ -5,9 +5,9 @@ title: Home
 
 # Hey there!
 
-**I'm Gaby—**a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. Most recently, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
+**I'm Gaby—** a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. I recently completed the **Back-End Engineering** program at Turing School of Software & Design, and am thrilled to be making the transition from design to development.
 
-I'm currently learning my way through the **back end engineering** program at Turing School of Software & Design, hoping to make a long-awaited transition into Software Development.
+Before that, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
 
 I also have ~10 years of experience working in the cycling industry in the form of bicycle mechanics & retail sales.
 
