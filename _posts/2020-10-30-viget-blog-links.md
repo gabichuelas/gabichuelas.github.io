@@ -11,11 +11,11 @@ I've been spending an inordinate amount of time on the [Viget blog](https://www.
 
   I'd like to believe it's not just 'Viget designers' that think this way; to me this process is the hallmark of someone who prioritizes the conceptual, high level / big picture approach to _design_.
 
-  I'll make a comparison _yet again_ to the bike shop world... our ~perpetual inside joke~ shop ethos was to always pause, backpedal, and ask **"Wait, what is it that you're trying to do here?"** when a customer or employee was going too far down the rabbit hole and lost sight of their goals.
+  I'll make a comparison _yet again_ to the bike shop world... our <s>perpetual inside joke</s> shop ethos was to always pause, backpedal, and ask **"Wait, what is it that you're trying to do here?"** when a customer or employee was going too far down the rabbit hole and lost sight of their goals.
 
 - [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/)
 
-  I like this one because it feels dense and academic without coming across as inaccessible or too pretentious. Also, it's _full_ of ~tangential easter eggs~ links that can jumpstart all sorts of stimulating research/inspiration spikes. Plus, it's hard _not_ to appreciate the imposing and powerful nature of brutalist architecture on some level. Then the author ties that back to... web design and a productivity app?! _Awesome._
+  I like this one because it feels dense and academic without coming across as inaccessible or too pretentious. Also, it's _full_ of <s>tangential easter eggs</s> links that can jumpstart all sorts of stimulating research/inspiration spikes. Plus, it's hard _not_ to appreciate the imposing and powerful nature of brutalist architecture on some level. Then the author ties that back to... web design and a productivity app?! _Awesome._
 
 - [What UX Designers Can Learn From Ikea](https://www.viget.com/articles/what-ux-designers-can-learn-from-ikea/)
 
