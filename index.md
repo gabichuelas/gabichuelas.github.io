@@ -5,9 +5,9 @@ title: Home
 
 # Hey there!
 
-**I'm Gaby—** a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. I recently completed the **Back-End Engineering** program at Turing School of Software & Design, and am thrilled to be making the transition from design to development.
+**I'm Gaby—** a curious, thorough, and humble human motivated by personal growth and an aversion to inefficiency. I recently completed the **Back-End Engineering** program at [Turing School of Software & Design](http://turing.io), and am thrilled to be making the transition from design to development.
 
-Before that, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
+In December 2020, I accepted a position at [BTI](http://bti-usa.com) as a **Full Stack Rails Developer**. Before that, I worked as a **Product Designer** for a healthcare + tech growth startup on a fully remote design team.
 
 I also have ~10 years of experience working in the cycling industry in the form of bicycle mechanics & retail sales.
 
