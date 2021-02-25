@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Purple News, Please
+date: 2021-01-22
 tags: politics news journalism
 ---
 
