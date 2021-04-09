@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insurgency in Mozambique
-tags: politics, international news  
+tags: politics news  
 ---
 
 This morning my neighbor asked me if I'd heard about the violence going on in Mozambique, and alluded to it being about ethnic group genocide & religious influences. 

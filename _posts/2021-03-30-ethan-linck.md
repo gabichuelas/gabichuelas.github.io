@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who is Ethan Linck?
-tags: linck, writers, science  
+tags: writers science  
 ---
 
 This morning, in pursuit of some literary fodder to start my day, and it being too early yet to count on the newsletters that have been decorating my email as of the last few months, I visited the Substack homepage to see if I couldn't browse my way into something interesting. 

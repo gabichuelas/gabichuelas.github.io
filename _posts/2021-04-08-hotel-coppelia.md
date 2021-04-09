@@ -2,7 +2,7 @@
 layout: post
 title: Dominican Cinema&#151;Hotel Coppelia
 date: 2021-04-08
-tags: film, politics
+tags: film politics
 ---
 
 This evening I directed my browser to Reddit, specifically to answer some jiu-jitsu related questions I had, when instead my feed alerted me to a new Dominican movie that some people were excited about. 
