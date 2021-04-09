@@ -13,7 +13,9 @@ I also have ~10 years of experience working in the cycling industry in the form 
 
 When I'm not glued to my computer following every interesting rabbit-hole, I'm probably out riding my bike, planning a backpacking trip, or paddling the rivers and springs of north central Florida with my best pup, Noodle.
 
-_This site is pretty new. Bear with me._
+This site is mostly an aimless dumping ground for disorganized writing, general thoughts, and regurgitating interesting (to me) information. Maybe an occasional tech post, who knows. :shrug: 
+
+_It's also pretty new and often neglected, so bear with me._
 
 # Contact
 
