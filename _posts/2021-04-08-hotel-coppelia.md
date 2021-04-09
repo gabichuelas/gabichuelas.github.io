@@ -13,12 +13,14 @@ The Dominican Republic does not produce many movies, and the few that it does ar
 
 It was almost midnight, and I wasn't about to actually start a movie, but I accidentally made it 50 minutes in, and then instead of going to bed proceeded to re-acquaint myself with the actual historical events of that time. 
 
-Here's a quick summary: 
+**Here's a quick summary _(not of the movie)_:** 
 
-The United States, fearing the rise of more communist governments in Latin America following the Cuban Revolution, questionably interfered in the Dominican Civil War; a conflict started because the military, which held lingering loyalties to the previous dictator of 30 years (Trujillo), was too conservative (and wrapped up in religious hierarchy) to accept the radical, secular, and people-first ideas of the first democratically elected president, Juan Bosch. 
+_The United States, fearing the rise of more communist governments in Latin America following the Cuban Revolution, questionably interfered in the Dominican Civil War; a conflict started because the military, which held lingering loyalties to the previous dictator of 30 years (Trujillo), was too conservative (and wrapped up in religious hierarchy) to accept the radical, secular, and people-first ideas of the first democratically elected president, Juan Bosch._
 
-Bosch made it 7 months into his presidency before the military staged a coup, and then went back into exile to figure out how to come back and help the country. In the meantime, armed civilians and small organized resistance groups _(The Constitutionalists)_ tried to fight back in the name of upholding the previous democratic election. When the military junta appeared to be losing, they called in the U.S., who was more than happy to intervene in the name of perceived, anti-communist efforts. 
+_Bosch made it 7 months into his presidency before the military staged a coup, and then went back into exile to figure out how to come back and help the country. In the meantime, armed civilians and small organized resistance groups&#151;The Constitutionalists&#151;tried to fight back in the name of upholding the previous democratic election. When the military junta appeared to be losing, they called in the U.S., who was more than happy to intervene in the name of perceived, anti-communist efforts._ 
 
-That story ends with the eventual rise of Joaquin Balaguer: a polarizing, power-hungry president that held office for a total of 24 years over 3 non-consecutive terms, and whose name I became familiar with as a child in the mid-90s thanks to the frequent and loud campaign caravans that drove through the capital city, while my great-grandmother stood in the yard cheering for him.
+_That story ends with the eventual rise of Joaquin Balaguer: a polarizing, power-hungry president that held office for a total of 24 years over 3 non-consecutive terms, and whose name I became familiar with as a child in the mid-90s thanks to the frequent and loud campaign caravans that drove through the capital city, while my great-grandmother stood in the yard cheering for him._
+
+--
 
 The movie is decent so far, and I'll be getting through the second half of it soon. Mostly I'm grateful for the chance and reminder to take a moment to learn more about my homeland, and for the exciting little feelings of nostalgia & belonging I get when I hear Dominican spanish outside of the DR and within my American existence. 
